@@ -3,8 +3,7 @@
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
 
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=plastic&logo=Redis&logoColor=white">
 
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/AmazonWebServices-232F3E?style=plastic&logo=AmazonWebServices&logoColor=white">
 
