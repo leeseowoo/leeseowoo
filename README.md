@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white">
 
 ***Infra***
-<img src="https://custom-icon-badges.demolab.com/badge/AmazonWebServices-232F3E?style=plastic&logo=aws&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=Firebase&logoColor=white">  <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=plastic&logo=githubactions&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/AmazonWebServices-232F3E?style=plastic&logo=aws&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=Firebase&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=plastic&logo=githubactions&logoColor=white">
 
 ***Monitoring***
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white">
