@@ -1,19 +1,28 @@
-### Skills
-<img src="https://img.shields.io/badge/Java-CA6201?style=plastic&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white">
+## _PS Tier (BOJ / PGS)_
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seowoo" width="30%"/>    <img src="https://api.programmers-badge.jh8459.com/badge/95841e66ae7e.svg" width="30%"/>
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
 
+## _Skills_
+***Backend***
+<img src="https://custom-icon-badges.demolab.com/badge/Java-CA6201?style=plastic&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white">
+
+***Frontend***
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
+
+***Database***
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=plastic&logo=Redis&logoColor=white">
 
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/AmazonWebServices-232F3E?style=plastic&logo=AmazonWebServices&logoColor=white">
+***Messaging***
+<img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white">
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=plastic&logo=GitHubActions&logoColor=white">
+***Infra***
+<img src="https://custom-icon-badges.demolab.com/badge/AmazonWebServices-232F3E?style=plastic&logo=aws&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=Firebase&logoColor=white">  <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=plastic&logo=githubactions&logoColor=white">
 
+***Monitoring***
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white">
 
-
-### Algorithm Problem Solving Tier
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seowoo)](https://solved.ac/seowoo)
-
+***Testing***
+<img src="https://img.shields.io/badge/JMeter-D22128?style=plastic&logo=apachejmeter&logoColor=white"> <img src="https://img.shields.io/badge/JavaMicrobenchmarkHarness-F58219?style=plastic&logo=openjdk&logoColor=white">
 
 
 <!--
@@ -29,4 +38,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seowoo"/>
+<img src="https://api.programmers-badge.jh8459.com/badge/95841e66ae7e-mini.svg"/>
 -->
