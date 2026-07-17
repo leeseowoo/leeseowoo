@@ -1,5 +1,5 @@
 ## _PS Tier (BOJ / PGS)_
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seowoo" width="33%"/>    <img src="https://api.programmers-badge.jh8459.com/badge/95841e66ae7e.svg" width="33%"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seowoo" width="35%"/>    <img src="https://api.programmers-badge.jh8459.com/badge/95841e66ae7e.svg" width="35%"/>
 
 
 ## _Skills_
